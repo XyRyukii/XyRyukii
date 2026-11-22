@@ -21,14 +21,14 @@
 
 ```js
 const aku = {
-  nama: "NAMA_KAMU",
-  github: "@USERNAME",
+  nama: "Athelstan",
+  github: "@XyRyukii",
   peran: ["Full-Stack Developer", "Creative Coder"],
-  lokasi: "KOTA_KAMU, Indonesia",
-  sedangDibangun: "NAMA_PROYEK: deskripsi singkat satu kalimat",
-  sedangDipelajari: ["Rust", "WebGL", "System Design"],
+  lokasi: "Tangerang, Indonesia",
+  sedangDibangun: "MY-PROJECT: Anu",
+  sedangDipelajari: ["Java", "C++", "Figma"],
   bisaDiajakNgobrol: ["web", "open source", "UI yang enak dilihat"],
-  bahanBakar: "kopi",
+  bahanBakar: "kopi or es teh",
   funFact: () => "Pernah debug 3 jam, ternyata salah ketik satu huruf.",
   hubungi() { return "lihat bagian paling bawah"; },
 };
@@ -53,13 +53,13 @@ while hidup:
 ## neofetch
 
 ```text
-       /\               NAMA_KAMU@github
+       /\               ATHELSTAN
       /  \              -------------------------------
      |    |             Role ...... Full-Stack Developer
-     | <> |             Dari ...... KOTA_KAMU, Indonesia
-     |    |             Stack ..... JS / TS / Python
+     | <> |             Dari ...... Tangerang, Indonesia
+     |    |             Stack ..... Java / C++ / Python
     /|    |\            Editor .... VS Code
-   / |    | \           Fuel ...... kopi hitam
+   / |    | \           Fuel ...... kopi Or Es teh
   |__|____|__|          Status .... lagi bikin sesuatu
      /_||_\
       \**/
